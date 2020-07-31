@@ -56,13 +56,13 @@ nav {
 	font-weight: bold;
 	color:white;
 }
-.container {
+.containerX {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	}
 
-.container img {
+.containerX img {
 
 	border: 5px solid white;
 	margin: 20px;
@@ -90,7 +90,7 @@ nav {
 	}
 
 
-.container img:hover {
+.containerX img:hover {
 	transform: scale(1.3);
 	opacity: 1.0;
 	box-shadow: 10px 10px 5px #082452;
